@@ -1,0 +1,8 @@
+html{
+    box-sizing: border-box; /*prevents horizontal scrollbar when padding is added to elements*/
+}
+
+body{
+    margin: 0;
+    min-height: 100vh;
+}
